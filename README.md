@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android (Kotlin), PHP (Laravel)**
 
-- 👯 I’m looking to collaborate on **Android (Kotlin) and PHP (Laravel)**
+- 👯 I’m looking to collaborate on **Android and PHP**
 
 - 🤝 I’m looking for help with **Analysis and Development**
 
