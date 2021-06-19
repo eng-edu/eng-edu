@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Eduardo Lima</h1>
-<h3 align="center">junior mobile developer | junior back-end developer | junior systems analyst</h3>
+<h3 align="center">mobile developer | back-end developer | systems analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-edu&label=Profile%20views&color=0e75b6&style=flat" alt="eng-edu" /> </p>
 
