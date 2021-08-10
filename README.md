@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-edu" alt="eng-edu" /></a> </p>
 
-- 🔭 I’m currently working on [Delphos Automação comercial](https://www.delphosautomacao.com.br/)
+- 🔭 I’m currently working on [Android Developer Pleno na Zup Innovation](https://www.zup.com.br/)
 
 - 🌱 I’m currently learning **Android (Kotlin), PHP (Laravel)**
 
