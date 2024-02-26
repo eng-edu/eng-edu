@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Eduardo Lima</h1>
-<h3 align="center">mobile developer | back-end developer | systems analyst</h3>
+<h3 align="center">ANDROID DEVELOPER</h3>
 
 - 🔭 I’m currently working on [Android Developer Pleno na Zup Innovation](https://www.zup.com.br/)
 
